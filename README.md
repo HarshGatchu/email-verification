@@ -343,7 +343,7 @@ npm test
 ```
 
 ### Acknowledgements
-thanks to [Dakota St. Lauren](https://github.com/SaintDako) for starting this project
+thanks to [HarshPatel](https://github.com/HarshGatchu) for starting this project
 thanks to [Frank Cash](https://github.com/frankcash) for looking over the code and adding tests.
 
 ### license

@@ -335,10 +335,4 @@ To test:
 npm test
 ```
 
-### Acknowledgements
-thanks to [HarshPatel](https://github.com/HarshGatchu) for starting this project
-thanks to [Frank Cash](https://github.com/frankcash) for looking over the code and adding tests.
 
-### license
-ISC
-#email-verification
